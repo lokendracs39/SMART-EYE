@@ -4,7 +4,7 @@ IoT Raspberry Pi security camera running open-cv for object detection. The camer
 
 [Watch the demonstration of project here] https://drive.google.com/file/d/1ipHd5ZnyTkOkvuT1PtK0nO7X3UtBMWAY/view?usp=drivesdk
 
-# Feature
+## Feature
 * Live video streaming
 * Instant email notification if any intruder detected
 * tracking in perticular time-span
